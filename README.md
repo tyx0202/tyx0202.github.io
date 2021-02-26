@@ -3,7 +3,14 @@
 
 ## 自我介紹
 我是資傳的學生
-
+```c
+#include <stdio.h>
+int main()
+{
+  printf("heyyyyy");
+  return 0;
+}
+```
 ## 興趣
 除了github都喜歡
 
